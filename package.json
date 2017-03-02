@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Use the same WebSocket client code in a browser or Node.js for isomorphic apps",
   "main": "index.js",
+  "browser": "browser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
