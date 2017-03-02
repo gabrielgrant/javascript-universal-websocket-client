@@ -19,5 +19,8 @@
     "universal"
   ],
   "author": "Gabriel Grant <g@briel.ca>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^2.2.0"
+  }
 }
