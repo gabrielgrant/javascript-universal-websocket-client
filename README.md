@@ -19,7 +19,7 @@ var WebSocket = require('universal-websocket-client');
 
 On the client side, you'll now need to use [browserify](http://browserify.org/) (or Webpack or something similar) to bundle your code.
 
-See [`tests/browser`](blob/master/tests/node) and [`tests/node`](blob/master/tests/node)
+See [`tests/browser`](tests/browser) and [`tests/node`](tests/node)
 
 
 Run Tests
