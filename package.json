@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/gabrielgrant/javascript-universal-websocket-client"
+    "url": "git+https://github.com/gabrielgrant/javascript-universal-websocket-client.git"
   },
   "keywords": [
     "websocket",
@@ -22,6 +22,6 @@
   "author": "Gabriel Grant <g@briel.ca>",
   "license": "ISC",
   "dependencies": {
-    "ws": "^2.2.0"
+    "ws": "^3.3.3"
   }
 }
