@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "universal-websocket-client": "^1.0.0"
+    "universal-websocket-client": "file://../.."
   }
 }

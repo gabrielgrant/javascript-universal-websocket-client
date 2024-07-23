@@ -5,7 +5,7 @@
 
 var WebSocket = require('universal-websocket-client');
 
-var wsUri = "ws://echo.websocket.org/";
+var wsUri = "https://echo.websocket.org/";
 var output;
 var websocket;
 
