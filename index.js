@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('ws/lib/WebSocket');
+module.exports = require('ws');
